@@ -1,5 +1,5 @@
 # love
-My love letter to Nicole.
+My love letter to JiaYao.
 
 This project is for my girl friend as a gift for Valentine's Day. It is based on <a>http://love.hackerzhou.me</a>
 <h2>Some noticable changes</h2>
